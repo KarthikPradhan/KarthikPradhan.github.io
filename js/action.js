@@ -17,7 +17,7 @@ $(function() {
         for (var i = 0; i < data.length; i++) {
             if (!langList.includes(data[i].lang)) {
                 langList[i] = data[i].lang;
-                $('.col-md-8').append('<button type="button" class="btn btn-info btn-block" data-toggle="collapse" data-target="#' + data[i].lang + '">' + data[i].lang + '</button><div id="' + data[i].lang + '" class="collapse"><table class="table table-bordered"><tbody><tr><td>' + data[i].name + '</td><td>' + data[i].description + '</td><td><a class="btn btn-default" href="' + data[i].url + '" target="_blank">Clone or download</a></td></tr></tbody></table></div>');
+                $('.col-md-8').append('<button type="button" class="btn btn-info btn-block" data-toggle="collapse" data-target="#' + data[i].lang + '">' + data[i].lang + '</button><div id="' + data[i].lang + '" class="collapse"><table class="table table-bordered"><tbody><tr><td>' + data[i].name + '</td><td>' + data[i].description + '</td><td><a class="btn btn-default" href="' + data[i].url + '" target="_blank">Clone or download</a></td></tr></tbody></table></div><br>');
             }
             else {
                 $('[id="' + data[i].lang + '"] tbody').append('<tr><td>' + data[i].name + '</td><td>' + data[i].description + '</td><td><a class="btn btn-default" href="' + data[i].url + '" target="_blank">Clone or download</a></td></tr>');
