@@ -1,0 +1,34 @@
+[
+    {
+        "id": "a1",
+        "name": "Multilingual and Crosslingual Semantic Word Similarity",
+        "description": "In semantic textual similarity (STS), systems rate the degree of semantic equivalence between two text snippets",
+        "lang": "Python",
+        "url": "https://github.com/KarthikPradhan/MultilingualAndCrosslingualSemanticSimilarity",
+        "type": "academic"
+    },
+    {
+        "id": "a2",
+        "name": "Demolition of a building by an aeroplane crash",
+        "description": "This project was done using C with OpenGL. This project demonstrates an aeroplane hitting a building.",
+        "lang": "C",
+        "url": "https://github.com/KarthikPradhan/AeroplaneCrash",
+        "type": "academic"
+    },
+    {
+        "id": "a3",
+        "name": "Content Based Image Retrieval",
+        "description": "Content-based Image Retrieval (CBIR) as an example of Content-based Retrieval (CBR)",
+        "lang": "Java",
+        "url": "https://github.com/KarthikPradhan/ContentBasedImageRetrieval",
+        "type": "academic"
+    },
+    {
+        "id": "h1",
+        "name": "BusTicketBookingSystem-Backend",
+        "description": "This project is done using Java 8. This is a sample bus ticket printing application.",
+        "lang": "Java",
+        "url": "https://github.com/KarthikPradhan/BusTicketBookingSystem-Backend",
+        "type": "hobby"
+    }
+]
