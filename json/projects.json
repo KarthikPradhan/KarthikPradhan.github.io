@@ -11,7 +11,7 @@
         "id": "a2",
         "name": "Demolition of a building by an aeroplane crash",
         "description": "This project was done using C with OpenGL. This project demonstrates an aeroplane hitting a building.",
-        "lang": "C/C++",
+        "lang": "C or C++",
         "url": "https://github.com/KarthikPradhan/AeroplaneCrash",
         "type": "academic"
     },
