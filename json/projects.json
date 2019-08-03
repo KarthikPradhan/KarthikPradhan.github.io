@@ -30,5 +30,13 @@
         "lang": "Java",
         "url": "https://github.com/KarthikPradhan/BusTicketBookingSystem-Backend",
         "type": "hobby"
+    },
+    {
+        "id": "a4",
+        "name": "Survey-on-relevance-between-location-information-in-twitter-description-and-tagged-location",
+        "description": "A project that was developed to find the relevence between the location information in the description of the tweets and the tagged location and classify them as Perfect Match, Partial Match, Regional Match and No Match.",
+        "lang": "Python",
+        "url": "https://github.com/Deepak-PS/Survey-on-relevance-between-location-information-in-twitter-description-and-tagged-location",
+        "type": "academic"
     }
 ]
