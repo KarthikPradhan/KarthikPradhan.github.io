@@ -29,3 +29,12 @@ nav {
 footer {
     border-top: 1px solid black;
 }
+
+#aboutMeFooter {
+   padding-bottom: 1%;
+}
+
+@media (min-width: 576px) {
+#aboutMeFooter {
+   margin-top: 10%;
+}
